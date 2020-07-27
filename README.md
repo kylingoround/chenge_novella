@@ -1,2 +1,2 @@
-# chenge_novella
+# chenge-novella
 Created with CodeSandbox
